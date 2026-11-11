@@ -4,6 +4,8 @@
 
 A 3D real-time strategy game for the browser: gather, build, advance through three ages and defeat the Crimson March. Play the four-chapter story campaign **The Shattering of Ironvale**, or a skirmish on one of five map types (Green Vale, Iron Highlands, Corsair Coast, Primeval Wilds, Hollow Marsh) in four sizes (Small 96² to Huge 200²).
 
+> **Platform: PC.** Ironvale is currently made for desktop and laptop computers with a mouse and keyboard (Windows exe, or any modern desktop browser). Touch controls and a small-screen layout exist but have not been tested on real phones or tablets, so mobile is not supported yet.
+
 **Play in your browser:** https://sharpwizard.github.io/ironvale/
 
 **Windows:** download `Ironvale.exe` from the [latest release](https://github.com/SharpWizard/ironvale/releases/latest). One portable file, works offline.
