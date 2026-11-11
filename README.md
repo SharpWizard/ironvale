@@ -1,4 +1,6 @@
-# Ironvale
+# Ironvale: a game made with AI (Claude Fable 5.2)
+
+![Ironvale: a town in the Green Vale](screenshots/02-green-vale-town.jpg)
 
 A 3D real-time strategy game for the browser: gather, build, advance through three ages and defeat the Crimson March. Play the four-chapter story campaign **The Shattering of Ironvale**, or a skirmish on one of five map types (Green Vale, Iron Highlands, Corsair Coast, Primeval Wilds, Hollow Marsh) in four sizes (Small 96² to Huge 200²).
 
@@ -7,6 +9,14 @@ A 3D real-time strategy game for the browser: gather, build, advance through thr
 **Windows:** download `Ironvale.exe` from the [latest release](https://github.com/SharpWizard/ironvale/releases/latest). One portable file, works offline.
 
 **From source:** open `ironvale.html` (keep the `models/` and `lib/` folders next to it). Works fully offline; three.js r128 is bundled in `lib/` with a cdnjs fallback.
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Main menu](screenshots/01-main-menu.jpg) Main menu with the three campaigns | ![Whole map](screenshots/03-highlands-full-map.jpg) The whole Highlands map: hills, lakes, forests, gold and stone, both towns |
+| ![Corsair Coast](screenshots/04-corsair-coast-town.jpg) An Amber League town on the Corsair Coast | ![Highlands](screenshots/05-highlands-town.jpg) A Stoneholt town in the Highlands |
+| ![Primeval Wilds](screenshots/06-primeval-wilds-windriders.jpg) Windrider tents among the crystals of the Primeval Wilds | ![Hollow Marsh](screenshots/07-hollow-marsh-town.jpg) A Crimson March town in the Hollow Marsh |
 
 ## Made with Claude Fable 5.2
 

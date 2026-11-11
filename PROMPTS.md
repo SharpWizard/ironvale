@@ -29,6 +29,7 @@ This page lists the requests in order (lightly tidied for spelling), so you can 
 | 19 | "Do all updates." | AI fix, realm looks, campaign playtest, balance pass, phone layout, save slots. |
 | 20 | "Make an offline exe, a portable version, with an icon." | `Ironvale.exe`, one file, 5.8 MB. |
 | 21 | "Push it to GitHub and make it live." | This repository and the live page. |
+| 22 | "Put some screenshots with a detailed map in the repo." | The screenshots in the README. |
 
 ## What made it work
 
